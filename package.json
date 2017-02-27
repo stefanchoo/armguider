@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "generator-jhipster-bootstrap-material-design": "3.5.1",
+    "generator-jhipster-swagger2markup": "1.1.0",
+    "generator-jhipster": "4.0.6"
+  }
+}
